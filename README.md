@@ -1,22 +1,43 @@
-# Portfolio
+# Civil Engineering Portfolio
 
-Welcome to my portfolio! Here you will find details about my work and achievements as a Civil Engineer.
+## Summary
+
+This portfolio showcases the professional work of a Bachelor's degree holder in Civil Engineering with extensive experience working on civil engineering projects for the City of Philadelphia. The portfolio highlights expertise in infrastructure design, project management, and municipal engineering.
 
 ## About
 
-I am a dedicated Civil Engineer with several years of experience in the field. My work focuses on sustainable civil engineering practices and innovative designs.
+Civil Engineer with a passion for designing and managing infrastructure projects that serve the public. With professional experience at the City of Philadelphia, this engineer is dedicated to delivering quality civil engineering solutions and managing complex infrastructure initiatives.
+
+## Education
+
+- **Bachelor's Degree in Civil Engineering**
+
+## Experience
+
+- **Civil Engineer at City of Philadelphia**
+  - Infrastructure project planning and execution
+  - Collaboration with city departments and stakeholders
+  - Public works and municipal engineering projects
+  - Design and construction oversight
+
+## Skills
+
+- Civil Engineering Design
+- Infrastructure Planning
+- Project Management
+- Government Standards Compliance
+- Municipal Engineering
+- Construction Oversight
+- Stakeholder Coordination
 
 ## Projects
 
-- **Bridge Design**: Successfully designed a bridge that emphasizes sustainability.
-- **Urban Planning**: Worked on urban planning projects that integrate green spaces and public infrastructure.
+*Projects and case studies to be added*
 
 ## Contact
 
-Feel free to reach out if you would like to collaborate or learn more about my work!
-
-Email: example@example.com
+- **Email**: gurarasoliyana@gmail.com
 
 ---
 
-*Last updated on 2026-04-20 03:40:21 UTC*
+*Website designed and developed by TechPro369*
