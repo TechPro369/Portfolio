@@ -2,11 +2,11 @@
 
 ## Summary
 
-I am a Bachelor's degree holder in Civil Engineering with professional experience working on government civil engineering projects for the City of Philadelphia. This portfolio showcases my work in the public sector infrastructure and municipal engineering.
+This portfolio showcases the professional work of a Bachelor's degree holder in Civil Engineering with extensive experience working on government civil engineering projects for the City of Philadelphia. The portfolio highlights expertise in infrastructure design, project management, and municipal engineering.
 
-## About Me
+## About
 
-Government Civil Engineer with a passion for designing and managing infrastructure projects that serve the public. Experience with the City of Philadelphia in delivering quality civil engineering solutions for municipal needs.
+Government Civil Engineer with a passion for designing and managing infrastructure projects that serve the public. With professional experience at the City of Philadelphia, this engineer is dedicated to delivering quality civil engineering solutions and managing complex infrastructure initiatives.
 
 ## Education
 
@@ -40,4 +40,4 @@ Government Civil Engineer with a passion for designing and managing infrastructu
 
 ---
 
-For inquiries or professional opportunities, please feel free to reach out via email.
+*Website designed and developed by TechPro369*
