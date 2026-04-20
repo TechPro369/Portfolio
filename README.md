@@ -1,44 +1,43 @@
-# Professional Portfolio
+# Civil Engineering Portfolio
 
-## Overview
-This repository showcases my professional portfolio, demonstrating my skills and projects in software development. Below is a template you can follow to structure your portfolio effectively.
+## Summary
 
-## Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Education](#education)
-- [Experience](#experience)
-- [Contact](#contact)
+I am a Bachelor's degree holder in Civil Engineering with professional experience working on government civil engineering projects for the City of Philadelphia. This portfolio showcases my work in the public sector infrastructure and municipal engineering.
 
 ## About Me
-A brief introduction about yourself, your background, and what you are passionate about.
 
-## Skills
-- Programming Languages: (e.g., JavaScript, Python, Java)
-- Frameworks and Libraries: (e.g., React, Node.js, Django)
-- Tools: (e.g., Git, Docker, VSCode)
-- Databases: (e.g., MySQL, MongoDB)
-
-## Projects
-### Project Title 1
-- Description: Brief description of the project.
-- Technologies Used: List the technologies used.
-- Link: [Live Demo](#) | [GitHub Repo](#)
-
-### Project Title 2
-- Description: Brief description of the project.
-- Technologies Used: List the technologies used.
-- Link: [Live Demo](#) | [GitHub Repo](#)
+Government Civil Engineer with a passion for designing and managing infrastructure projects that serve the public. Experience with the City of Philadelphia in delivering quality civil engineering solutions for municipal needs.
 
 ## Education
-- Degree: Your degree and the institution.
-- Graduation Year: Year you graduated.
+
+- **Bachelor's Degree in Civil Engineering**
 
 ## Experience
-- Job Title at Company Name (Year - Year)
-  - Description of responsibilities and accomplishments.
+
+- **Government Civil Engineer at City of Philadelphia**
+  - Infrastructure project planning and execution
+  - Collaboration with city departments and stakeholders
+  - Public works and municipal engineering projects
+  - Design and construction oversight
+
+## Skills
+
+- Civil Engineering Design
+- Infrastructure Planning
+- Project Management
+- Government Standards Compliance
+- Municipal Engineering
+- Construction Oversight
+- Stakeholder Coordination
+
+## Projects
+
+*Projects and case studies to be added*
 
 ## Contact
-- Email: your_email@example.com
-- LinkedIn: [Your LinkedIn](#)
+
+- **Email**: gurarasoliyana@gmail.com
+
+---
+
+For inquiries or professional opportunities, please feel free to reach out via email.
